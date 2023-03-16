@@ -1,0 +1,7 @@
+Hebert:
+Data Source=DESKTOP-544EB45\SQLEXPRESS;Initial Catalog=DB_GERENCFROTA;Integrated Security=True
+Leonardo(Pessoal):
+Data Source=DESKTOP-PR8Q60N;Initial Catalog=DB_GERENCFROTA;Integrated Security=True
+Leonardo(Trabalho):
+Data Source=DESKTOP-N5MLJ6D;Initial Catalog=DB_GERENCFROTA;Integrated Security=True
+Data Source=DESKTOP-UIK277D;Initial Catalog=DB_GERENCFROTA;Integrated Security=True
